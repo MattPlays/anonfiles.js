@@ -1,0 +1,28 @@
+{
+  "name": "anonfiles.js",
+  "version": "1.0.0",
+  "description": "anonfiles.js utilizes the AnonFiles API to allow users to upload and request data about files.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattPlays/anonfiles.js.git"
+  },
+  "keywords": [
+    "anonfiles",
+    "file-upload",
+    "API",
+    "javascript"
+  ],
+  "author": "MattPlays (https://github.com/MattPlays/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattPlays/anonfiles.js/issues"
+  },
+  "homepage": "https://github.com/MattPlays/anonfiles.js#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
